@@ -1,6 +1,6 @@
-# assistente_de_abastecimento
+# avaliacao_aluno_projeto
 
-Um aplicativo que auxilia no abastecimento de veículos.
+Um aplicativo que auxilia professores cadastrar a nota e calcular a média do aluno.
 
 ## Getting Started
 
